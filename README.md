@@ -4,7 +4,7 @@
 
 🌑 About me:
 Currently a student on UniSATC, Criciúma:
-- 🤓 Second Year at "Engenharia da Computação" in college, UniSATC (3º Fase/3º Phase);
+- 🤓 Second Year at "Engenharia da Computação" in college, UniSATC (4º Fase/4º Phase);
 - 🤠 On free time I usually play video game, read manga/manhwa/manhua or light novels;
 - ☎️ Discord: herudegas
 - 🎮 Steam: нεrυd̶εɢคƞ
