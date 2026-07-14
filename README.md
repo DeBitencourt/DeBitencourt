@@ -24,10 +24,10 @@ Currently a student on UniSATC, Criciúma:
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"  alt="React" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeBitencourt&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeBitencourt&layout=compact&theme=radical" alt="Top Langs" />
-</div>
+<!-- <div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=DeBitencourt&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DeBitencourt&layout=compact&theme=radical" alt="Top Langs" />
+</div> -->
 
 <div align="center">
   See you later fellow human
